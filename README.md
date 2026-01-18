@@ -106,7 +106,7 @@ Email Me /nurzafreendaania@graduate.utm.my
 
 </p>
 
-<a href="https://www.linkedin.com/in/afif-rifqi-031419392](https://www.linkedin.com/in/zafreen-daania-7784302b8/" target="_blank">
+<a href="www.linkedin.com/in/nur-zafreen-daania-binti-mohd-wazeer-7784302b8" target="_blank">
     Visit my LinkedIn
 </a>
 
