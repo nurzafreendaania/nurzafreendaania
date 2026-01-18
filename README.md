@@ -29,7 +29,7 @@ I am a first year computer network and security student at Universiti Teknologi 
 - SPM : 8A 1B
 ---
 ## 🧑‍💼 Position 
----
+
 ### Universiti Teknologi Malaysia (UTM)
 - **Active Member** (CyberX)
 - **Active Member** (Rasrec KOLEJ TUN RAZAK 25/26)
