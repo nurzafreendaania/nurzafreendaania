@@ -47,7 +47,7 @@ I am a first year computer network and security student at Universiti Teknologi 
 
 ---
 ## 🛠️ Skills 
----
+
 - C++
 - Git / GitHub
 - Microsoft Office - Word , Powerpoint , Excel
@@ -65,7 +65,6 @@ I am a first year computer network and security student at Universiti Teknologi 
 
 ---
 ## 📖 Courses
----
 ### 1 / SERCH
 #### Semester 1
 ---
@@ -105,7 +104,7 @@ SECJ1013 | Programming Technique I
 ## 📞 Contact
 ---
 <p> 
-Email Me /afifrifqi2006@gmail.com
+Email Me /nurzafreendaania@graduate.utm.my
  </a> 
 
 </p>
