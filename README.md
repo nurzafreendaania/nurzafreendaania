@@ -85,9 +85,6 @@ SECJ1013 | Programming Technique I
 <p>
   ULRS1032 | Integrity and Anti-Corruption 
 </p>
-
-
----
 ---
 ## 🏆 Award and Certificate 
 - **Chief Scout's Award(Rambu Pengakap Remaja)** (Receivee)
